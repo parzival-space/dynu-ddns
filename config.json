@@ -1,0 +1,9 @@
+{
+  "zone": "<<YOUR DOMAIN>>",
+  "token": "<<YOUR API KEY>>",
+
+  "ipv4Enabled": true,
+  "ipv6Enabled": false,
+
+  "interval": 1
+}
