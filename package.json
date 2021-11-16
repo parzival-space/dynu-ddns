@@ -13,6 +13,6 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.2"
   }
 }
