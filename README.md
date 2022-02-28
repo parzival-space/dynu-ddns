@@ -17,7 +17,7 @@ It is recommended to use <a href="https://www.npmjs.com/package/forever-service"
 npm i -g forever forever-service
 
 # Pull this repository and install dependencies
-git clone https://github.com/malte-linke/dynu-ddns.git
+git clone https://github.com/parzival-space/dynu-ddns.git
 cd ./dynu-ddns
 npm i
 
